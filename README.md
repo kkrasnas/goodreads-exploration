@@ -1,4 +1,4 @@
-# romancerecs: Recommendation engine for romance books
+# Goodreads Exploration and Recommendation engine for romance books
 
 ## Plan:
 1. Use GoodReads public data from [UCSD Book Graph](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home?pli=1) and some sample code from [their github repo](https://github.com/MengtingWan/goodreads). 
